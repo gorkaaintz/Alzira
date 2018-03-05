@@ -1,9 +1,9 @@
-I.Theme
+I.Tema
 
-Sydney, Copyright 2015
-Sydney is licensed under GNU General Public License V2 or later. You can find a copy of it in the license.txt file.
+Alzira, Copyright 2018
+Alzira está bajo licencia GNU General Public License V2 o posterior. Puede encontrar una copia de la licencia en el archivo license.txt.
 
-II. Resources
+II. Recursos
 
 a) Underscores
 Solon is based on Underscores. All the files in the theme package are from Underscores, unless stated otherwise.
@@ -82,7 +82,7 @@ License: MIT/GPL
 License URI: http://opensource.org/licenses/MIT
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-m) Images folder
+m) Carpeta images
 m1) Image 1 (also used in screenshot)
 Copyright: FirmBee
 Resource URI: http://pixabay.com/en/office-tax-business-finance-620822/
